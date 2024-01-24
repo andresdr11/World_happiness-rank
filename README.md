@@ -1,5 +1,5 @@
 # Descripción del Proyecto
-Este proyecto se centra en el análisis de los Informes de Felicidad de los años 2015 y 2016. Los Informes de Felicidad evalúan el bienestar subjetivo en diversos países, considerando factores como la economía, la salud y la calidad de vida.
+Este proyecto se centra en el análisis de los Informes de Felicidad de los años 2015 y 2016 utilizando Python Pandas, Seaborn y Matplotlib. Los Informes de Felicidad evalúan el bienestar subjetivo en diversos países, considerando factores como la economía, la salud y la calidad de vida.
 
 ## Objetivo
 El objetivo principal es explorar y comprender patrones y relaciones presentes en los datos de felicidad. Se busca identificar tendencias a lo largo de los años, analizar la influencia de diversas variables y ofrecer una visión integral de la felicidad a nivel global.
