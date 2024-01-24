@@ -13,12 +13,12 @@ El objetivo principal es explorar y comprender patrones y relaciones presentes e
 
 * Exploración Visual: Se utilizan gráficos para visualizar relaciones clave, como la influencia de la familia en la salud y la relación entre la puntuación de felicidad y la confianza en el gobierno.
 
-* Análisis Estadístico:Se realiza un análisis estadístico para comprender la distribución y variabilidad de las variables, excluyendo valores nulos.
+* Análisis Estadístico: Se realiza un análisis estadístico para comprender la distribución y variabilidad de las variables, excluyendo valores nulos.
 
 * Matriz de Correlación: Se calcula la matriz de correlación para identificar posibles asociaciones entre las variables.
 
 * A grupación de Datos: Se agrupa el dataframe por país, resaltando el valor máximo de felicidad independientemente del año.
 
-* Exploración de Relaciones:Se investiga la relación entre la felicidad y la generosidad, explorando visualmente la puntuación de libertad.
+* Exploración de Relaciones: Se investiga la relación entre la felicidad y la generosidad, explorando visualmente la puntuación de libertad.
 
 * Distribución del Distopía: Se analiza la distribución del grado de distopía en función de la región, proporcionando una visión contextualizada.
