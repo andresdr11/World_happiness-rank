@@ -4,7 +4,7 @@ Este proyecto se centra en el análisis de los Informes de Felicidad de los año
 # Objetivo
 El objetivo principal es explorar y comprender patrones y relaciones presentes en los datos de felicidad. Se busca identificar tendencias a lo largo de los años, analizar la influencia de diversas variables y ofrecer una visión integral de la felicidad a nivel global.
 
-#Proceso
+# Proceso
 * Carga de Datos: Se incorporan los datos de los Informes de Felicidad de 2015 y 2016 desde archivos CSV.
 
 *Consolidación de Datos: Se combinan ambos conjuntos de datos para crear un único dataframe, facilitando el análisis comparativo.
