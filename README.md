@@ -1,24 +1,24 @@
-# Descripción del Proyecto
-Este proyecto se centra en el análisis de los Informes de Felicidad de los años 2015 y 2016 utilizando Python Pandas, Seaborn y Matplotlib. Los Informes de Felicidad evalúan el bienestar subjetivo en diversos países, considerando factores como la economía, la salud y la calidad de vida.
+# Project Description
+This project focuses on the analysis of Happiness Reports from the years 2015 and 2016 using Python Pandas, Seaborn, and Matplotlib. Happiness Reports assess subjective well-being in various countries, considering factors such as the economy, health, and quality of life.
 
-## Objetivo
-El objetivo principal es explorar y comprender patrones y relaciones presentes en los datos de felicidad. Se busca identificar tendencias a lo largo de los años, analizar la influencia de diversas variables y ofrecer una visión integral de la felicidad a nivel global.
+## Objective
+The main objective is to explore and understand patterns and relationships present in happiness data. The goal is to identify trends over the years, analyze the influence of various variables, and provide a comprehensive view of happiness globally.
 
-## Proceso
-* Carga de Datos: Se incorporan los datos de los Informes de Felicidad de 2015 y 2016 desde archivos CSV.
+## Process
+* Data Loading: Data from the 2015 and 2016 Happiness Reports is imported from CSV files.
 
-* Consolidación de Datos: Se combinan ambos conjuntos de datos para crear un único dataframe, facilitando el análisis comparativo.
+* Data Consolidation: Both datasets are combined to create a unified dataframe, facilitating comparative analysis.
 
-* Manejo de Valores Nulos: Se abordan los valores nulos en ciertas columnas mediante estrategias específicas para preservar la integridad de los datos.
+* Handling Null Values: Null values in certain columns are addressed using specific strategies to preserve data integrity.
 
-* Exploración Visual: Se utilizan gráficos para visualizar relaciones clave, como la influencia de la familia en la salud y la relación entre la puntuación de felicidad y la confianza en el gobierno.
+* Visual Exploration: Graphs are utilized to visualize key relationships, such as the influence of family on health and the correlation between happiness score and trust in the government.
 
-* Análisis Estadístico: Se realiza un análisis estadístico para comprender la distribución y variabilidad de las variables, excluyendo valores nulos.
+* Statistical Analysis: Statistical analysis is performed to understand the distribution and variability of variables, excluding null values.
 
-* Matriz de Correlación: Se calcula la matriz de correlación para identificar posibles asociaciones entre las variables.
+* Correlation Matrix: A correlation matrix is calculated to identify potential associations between variables.
 
-* A grupación de Datos: Se agrupa el dataframe por país, resaltando el valor máximo de felicidad independientemente del año.
+* Data Grouping: The dataframe is grouped by country, highlighting the maximum happiness value regardless of the year.
 
-* Exploración de Relaciones: Se investiga la relación entre la felicidad y la generosidad, explorando visualmente la puntuación de libertad.
+* Relationship Exploration: The relationship between happiness and generosity is investigated, visually exploring freedom score.
 
-* Distribución del Distopía: Se analiza la distribución del grado de distopía en función de la región, proporcionando una visión contextualizada.
+* Distopia Distribution: The distribution of distopia grade based on region is analyzed, providing a contextualized perspective.
